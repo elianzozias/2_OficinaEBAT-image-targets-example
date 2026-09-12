@@ -3,7 +3,19 @@
     "30419396-0fa0-4e54-8752-b9d3a2515463": {
       "id": "30419396-0fa0-4e54-8752-b9d3a2515463",
       "name": "target_petrobras",
-      "components": {},
+      "components": {
+        "7c7dd0ef-b10c-4e43-87a8-9a92fb1ae75b": {
+          "id": "7c7dd0ef-b10c-4e43-87a8-9a92fb1ae75b",
+          "name": "Toggle SLAM on Found",
+          "parameters": {
+            "imageTargetName": "target_petrobras",
+            "worldContent": {
+              "type": "entity",
+              "id": "6e800b51-b8dd-43af-b63a-632a6981b2cd"
+            }
+          }
+        }
+      },
       "position": [
         0,
         0,
@@ -2856,7 +2868,7 @@
     },
     "b847f3f9-2be6-4ed5-951e-a73dbfe5b0e6": {
       "id": "b847f3f9-2be6-4ed5-951e-a73dbfe5b0e6",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "6e800b51-b8dd-43af-b63a-632a6981b2cd",
       "position": [
         0,
         -0.5661733900062866,
@@ -2908,7 +2920,7 @@
     },
     "df3ebdf8-f0c6-41e8-8889-315ca4ce4422": {
       "id": "df3ebdf8-f0c6-41e8-8889-315ca4ce4422",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "6e800b51-b8dd-43af-b63a-632a6981b2cd",
       "position": [
         0,
         0,
@@ -2941,7 +2953,7 @@
     },
     "0863f31b-0948-4124-b23e-5d866e37b43c": {
       "id": "0863f31b-0948-4124-b23e-5d866e37b43c",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "6e800b51-b8dd-43af-b63a-632a6981b2cd",
       "position": [
         0.9053443997196661,
         0.4079836976457104,
@@ -3115,7 +3127,7 @@
     },
     "8a7b673c-2e38-4fb3-98e2-88d701c92cd0": {
       "id": "8a7b673c-2e38-4fb3-98e2-88d701c92cd0",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "6e800b51-b8dd-43af-b63a-632a6981b2cd",
       "position": [
         0.05927132311224387,
         0.8763718264056016,
@@ -3318,7 +3330,7 @@
       },
       "name": "Sustentabilidade",
       "order": 2.2084409313256237,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "6e800b51-b8dd-43af-b63a-632a6981b2cd"
     },
     "54c76a92-ccb6-4309-9530-cc8c431bfceb": {
       "id": "54c76a92-ccb6-4309-9530-cc8c431bfceb",
@@ -3460,6 +3472,31 @@
       },
       "name": "Moldura Imagem (10)",
       "order": 3
+    },
+    "6e800b51-b8dd-43af-b63a-632a6981b2cd": {
+      "id": "6e800b51-b8dd-43af-b63a-632a6981b2cd",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "82dc9290-dd7d-439e-be09-8026accf61a3",
+      "components": {},
+      "name": "Conteudos",
+      "order": 5.738330155856107
     }
   },
   "spaces": {
