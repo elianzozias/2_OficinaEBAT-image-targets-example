@@ -886,7 +886,8 @@
       "imageTarget": {
         "name": "bmo-bites"
       },
-      "order": 2.947891733989673
+      "order": 2.947891733989673,
+      "hidden": true
     },
     "d16a4cc9-f659-45cb-b679-98b57462d5d8": {
       "id": "d16a4cc9-f659-45cb-b679-98b57462d5d8",
@@ -2241,6 +2242,34 @@
       "order": 17.028744183474238,
       "parentId": "377b65a9-0810-4e9a-8efd-261b32b1bd8b",
       "hidden": true
+    },
+    "30419396-0fa0-4e54-8752-b9d3a2515463": {
+      "id": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "82dc9290-dd7d-439e-be09-8026accf61a3",
+      "components": {},
+      "name": "target_petrobras",
+      "imageTarget": {
+        "name": "target_petrobras"
+      },
+      "order": 4.622026315567672
     }
   },
   "spaces": {
