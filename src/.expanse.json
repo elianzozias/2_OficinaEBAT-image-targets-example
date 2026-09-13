@@ -3256,6 +3256,32 @@
             "easingFunction": "Quadratic",
             "toY": -0.1
           }
+        },
+        "50790ecc-42e9-4329-9ae4-d673f92fb569": {
+          "id": "50790ecc-42e9-4329-9ae4-d673f92fb569",
+          "name": "particle-emitter",
+          "parameters": {
+            "emitterLife": 0,
+            "particlesPerShot": 10,
+            "emitDelay": 0.3,
+            "minimumLifespan": 5,
+            "maximumLifespan": 7,
+            "mass": 1,
+            "gravity": 0,
+            "scale": 0.05,
+            "forceX": 0.05,
+            "forceY": 0.1,
+            "forceZ": 0.05,
+            "spread": 360,
+            "radialVelocity": 0.05,
+            "spawnAreaType": "sphere",
+            "boundingZoneType": "none",
+            "resourceType": "sprite",
+            "resourceUrl": "assets/Oficina/Ellipse 5.png",
+            "blendingMode": "normal",
+            "spawnAreaRadius": 2,
+            "animateColor": false
+          }
         }
       },
       "gltfModel": {
@@ -3304,6 +3330,32 @@
             "easeOut": true,
             "easingFunction": "Quadratic",
             "toY": 0.1
+          }
+        },
+        "50790ecc-42e9-4329-9ae4-d673f92fb569": {
+          "id": "50790ecc-42e9-4329-9ae4-d673f92fb569",
+          "name": "particle-emitter",
+          "parameters": {
+            "emitterLife": 0,
+            "particlesPerShot": 10,
+            "emitDelay": 0.3,
+            "minimumLifespan": 5,
+            "maximumLifespan": 7,
+            "mass": 1,
+            "gravity": 0,
+            "scale": 0.05,
+            "forceX": 0.05,
+            "forceY": 0.1,
+            "forceZ": 0.05,
+            "spread": 360,
+            "radialVelocity": 0.05,
+            "spawnAreaType": "sphere",
+            "boundingZoneType": "none",
+            "resourceType": "sprite",
+            "resourceUrl": "assets/Oficina/Ellipse 5.png",
+            "blendingMode": "normal",
+            "spawnAreaRadius": 2,
+            "animateColor": false
           }
         }
       },
@@ -3447,6 +3499,32 @@
             "easeOut": true,
             "easingFunction": "Quadratic",
             "toY": 0.1
+          }
+        },
+        "50790ecc-42e9-4329-9ae4-d673f92fb569": {
+          "id": "50790ecc-42e9-4329-9ae4-d673f92fb569",
+          "name": "particle-emitter",
+          "parameters": {
+            "emitterLife": 0,
+            "particlesPerShot": 10,
+            "emitDelay": 0.3,
+            "minimumLifespan": 5,
+            "maximumLifespan": 7,
+            "mass": 1,
+            "gravity": 0,
+            "scale": 0.05,
+            "forceX": 0.05,
+            "forceY": 0.1,
+            "forceZ": 0.05,
+            "spread": 360,
+            "radialVelocity": 0.05,
+            "spawnAreaType": "sphere",
+            "boundingZoneType": "none",
+            "resourceType": "sprite",
+            "resourceUrl": "assets/Oficina/Ellipse 5.png",
+            "blendingMode": "normal",
+            "spawnAreaRadius": 2,
+            "animateColor": false
           }
         }
       },
