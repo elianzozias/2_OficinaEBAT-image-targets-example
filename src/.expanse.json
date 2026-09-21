@@ -2588,7 +2588,7 @@
       "position": [
         0,
         -0.014667412273535463,
-        4.241094343202404
+        3.350076121867746
       ],
       "rotation": [
         0,
@@ -2640,7 +2640,7 @@
       "position": [
         -0.011766459862236789,
         -0.00685912834151059,
-        3.0680498438943786
+        2.592677961238439
       ],
       "rotation": [
         0,
@@ -2679,7 +2679,7 @@
       "position": [
         0.17604279463778183,
         -0.17074894903091276,
-        3.0680498438943786
+        2.592677961238439
       ],
       "rotation": [
         0,
@@ -2728,7 +2728,7 @@
       "position": [
         0.17649413796527358,
         0.16037264882913582,
-        3.0678670164328805
+        2.592495133776941
       ],
       "rotation": [
         0,
@@ -2775,7 +2775,7 @@
       "position": [
         -0.18360676978163204,
         0.16037264882913582,
-        3.0678670164328805
+        2.592495133776941
       ],
       "rotation": [
         0,
@@ -2823,7 +2823,7 @@
       "position": [
         -0.1840581131091238,
         -0.17074894903091276,
-        3.0680498438943786
+        2.592677961238439
       ],
       "rotation": [
         0,
@@ -2871,7 +2871,7 @@
       "position": [
         -0.0007830661122192883,
         -0.012341721531788696,
-        1.8610082371148007
+        1.5730730484772926
       ],
       "rotation": [
         0,
@@ -2909,7 +2909,7 @@
       "position": [
         0.17546441966921172,
         -0.18381659996584587,
-        1.8608254096533028
+        1.5728902210157947
       ],
       "rotation": [
         0,
@@ -2957,7 +2957,7 @@
       "position": [
         -0.1846364880776939,
         0.15353566219247705,
-        1.8608254096533028
+        1.5728902210157947
       ],
       "rotation": [
         0,
@@ -3005,7 +3005,7 @@
       "position": [
         0.005669474589898027,
         -0.010660676269754588,
-        0.8314142800646037
+        0.517666340174591
       ],
       "rotation": [
         0,
@@ -3043,7 +3043,7 @@
       "position": [
         -0.1808534291565858,
         -0.177336904516959,
-        0.8314142800646037
+        0.517666340174591
       ],
       "rotation": [
         0,
@@ -3091,7 +3091,7 @@
       "position": [
         0.1792474785903197,
         -0.177336904516959,
-        0.8314142800646037
+        0.517666340174591
       ],
       "rotation": [
         0,
@@ -3140,7 +3140,7 @@
       "position": [
         0.17969882191781145,
         0.15378469334308947,
-        0.8312314526031059
+        0.5174835127130932
       ],
       "rotation": [
         0,
@@ -3188,7 +3188,7 @@
       "position": [
         -0.18040208582909406,
         0.15378469334308947,
-        0.8312314526031059
+        0.5174835127130932
       ],
       "rotation": [
         0,
@@ -3231,12 +3231,108 @@
       "order": 4.389651489089766,
       "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
     },
-    "a85ba45d-efbc-40ab-b1db-6129c1bce453": {
-      "id": "a85ba45d-efbc-40ab-b1db-6129c1bce453",
+    "1d0b4433-22b6-4a74-9ef4-e6cd249962ec": {
+      "id": "1d0b4433-22b6-4a74-9ef4-e6cd249962ec",
+      "position": [
+        -0.1846364880776939,
+        -0.18381659996584587,
+        1.5728902210157947
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.02,
+        0.02,
+        0.02
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 16,
+        "height": 9
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Oficina/imagem 1.png"
+        },
+        "side": "double"
+      },
+      "components": {
+        "79bbc609-37cd-4663-ac0e-1b789dd3c1a0": {
+          "id": "79bbc609-37cd-4663-ac0e-1b789dd3c1a0",
+          "name": "look-at-animation",
+          "parameters": {
+            "target": {
+              "type": "entity",
+              "id": "6f397a6c-b64a-4e99-a82f-f7790af757d1"
+            }
+          }
+        }
+      },
+      "name": "Moldura Imagem (14)",
+      "order": 4.388454703754407,
+      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+    },
+    "c410f4e8-939f-4a86-a1ab-039b17c11eaf": {
+      "id": "c410f4e8-939f-4a86-a1ab-039b17c11eaf",
+      "position": [
+        0.17546441966921172,
+        0.15353566219247705,
+        1.5728902210157947
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.02,
+        0.02,
+        0.02
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 16,
+        "height": 9
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Oficina/imagem 1.png"
+        },
+        "side": "double"
+      },
+      "components": {
+        "79bbc609-37cd-4663-ac0e-1b789dd3c1a0": {
+          "id": "79bbc609-37cd-4663-ac0e-1b789dd3c1a0",
+          "name": "look-at-animation",
+          "parameters": {
+            "target": {
+              "type": "entity",
+              "id": "6f397a6c-b64a-4e99-a82f-f7790af757d1"
+            }
+          }
+        }
+      },
+      "name": "Moldura Imagem (14)",
+      "order": 4.388643678322362,
+      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+    },
+    "6cda9287-4ac6-432f-b1cb-a0a181b2ea5f": {
+      "id": "6cda9287-4ac6-432f-b1cb-a0a181b2ea5f",
       "position": [
         0,
         0.319,
-        3.5701703335830395
+        2.1629282430902554
       ],
       "rotation": [
         0,
@@ -3302,187 +3398,16 @@
         "animationClip": "",
         "loop": true
       },
-      "name": "petrobras_marca.glb (4)",
-      "order": 9.589604925837719,
+      "name": "petrobras_marca.glb (5)",
+      "order": 10.56965248810884,
       "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
     },
-    "1d0b4433-22b6-4a74-9ef4-e6cd249962ec": {
-      "id": "1d0b4433-22b6-4a74-9ef4-e6cd249962ec",
-      "position": [
-        -0.1846364880776939,
-        -0.18381659996584587,
-        1.8608254096533028
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.02,
-        0.02,
-        0.02
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 16,
-        "height": 9
-      },
-      "material": {
-        "type": "basic",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Oficina/imagem 1.png"
-        },
-        "side": "double"
-      },
-      "components": {
-        "79bbc609-37cd-4663-ac0e-1b789dd3c1a0": {
-          "id": "79bbc609-37cd-4663-ac0e-1b789dd3c1a0",
-          "name": "look-at-animation",
-          "parameters": {
-            "target": {
-              "type": "entity",
-              "id": "6f397a6c-b64a-4e99-a82f-f7790af757d1"
-            }
-          }
-        }
-      },
-      "name": "Moldura Imagem (14)",
-      "order": 4.388454703754407,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
-    },
-    "c410f4e8-939f-4a86-a1ab-039b17c11eaf": {
-      "id": "c410f4e8-939f-4a86-a1ab-039b17c11eaf",
-      "position": [
-        0.17546441966921172,
-        0.15353566219247705,
-        1.8608254096533028
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.02,
-        0.02,
-        0.02
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 16,
-        "height": 9
-      },
-      "material": {
-        "type": "basic",
-        "color": "#FFFFFF",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Oficina/imagem 1.png"
-        },
-        "side": "double"
-      },
-      "components": {
-        "79bbc609-37cd-4663-ac0e-1b789dd3c1a0": {
-          "id": "79bbc609-37cd-4663-ac0e-1b789dd3c1a0",
-          "name": "look-at-animation",
-          "parameters": {
-            "target": {
-              "type": "entity",
-              "id": "6f397a6c-b64a-4e99-a82f-f7790af757d1"
-            }
-          }
-        }
-      },
-      "name": "Moldura Imagem (14)",
-      "order": 4.388643678322362,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
-    },
-    "ad582477-e430-40d9-881f-5b7283f91fed": {
-      "id": "ad582477-e430-40d9-881f-5b7283f91fed",
+    "ffd6ac0d-fbc2-47fd-8deb-e23a2f993ad0": {
+      "id": "ffd6ac0d-fbc2-47fd-8deb-e23a2f993ad0",
       "position": [
         0,
-        0.2814256701053211,
-        2.4854214926604556
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
-      "components": {
-        "fedb6633-9d3c-4c12-a0e1-083bf806def0": {
-          "id": "fedb6633-9d3c-4c12-a0e1-083bf806def0",
-          "name": "position-animation",
-          "parameters": {
-            "autoFrom": true,
-            "toX": 0,
-            "toZ": 2.485,
-            "duration": 6000,
-            "reverse": true,
-            "easeIn": true,
-            "easeOut": true,
-            "easingFunction": "Quadratic",
-            "toY": 0.31
-          }
-        },
-        "50790ecc-42e9-4329-9ae4-d673f92fb569": {
-          "id": "50790ecc-42e9-4329-9ae4-d673f92fb569",
-          "name": "particle-emitter",
-          "parameters": {
-            "emitterLife": 0,
-            "particlesPerShot": 10,
-            "emitDelay": 0.3,
-            "minimumLifespan": 5,
-            "maximumLifespan": 7,
-            "mass": 1,
-            "gravity": 0,
-            "scale": 0.05,
-            "forceX": 0.05,
-            "forceY": 0.1,
-            "forceZ": 0.05,
-            "spread": 360,
-            "radialVelocity": 0.05,
-            "spawnAreaType": "sphere",
-            "boundingZoneType": "none",
-            "resourceType": "sprite",
-            "resourceUrl": "assets/Oficina/Ellipse 5.png",
-            "blendingMode": "normal",
-            "spawnAreaRadius": 2,
-            "animateColor": false
-          }
-        }
-      },
-      "gltfModel": {
-        "src": {
-          "type": "asset",
-          "asset": "assets/Oficina/logo-3d ebat.glb"
-        },
-        "animationClip": "",
-        "loop": true
-      },
-      "name": "logo-3d ebat.glb",
-      "order": 11.275107191999272
-    },
-    "35328f52-9072-42da-a3bb-0a5b499956e6": {
-      "id": "35328f52-9072-42da-a3bb-0a5b499956e6",
-      "position": [
-        0,
-        0.3191178293321554,
-        1.416244592848612
+        0.319,
+        1.0558281097586069
       ],
       "rotation": [
         0,
@@ -3497,7 +3422,6 @@
       ],
       "geometry": null,
       "material": null,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
       "components": {
         "fedb6633-9d3c-4c12-a0e1-083bf806def0": {
           "id": "fedb6633-9d3c-4c12-a0e1-083bf806def0",
@@ -3505,8 +3429,8 @@
           "parameters": {
             "autoFrom": true,
             "toX": 0,
-            "toZ": 1.416,
-            "duration": 5000,
+            "toZ": 3.57,
+            "duration": 4000,
             "reverse": true,
             "easeIn": true,
             "easeOut": true,
@@ -3544,13 +3468,14 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/Oficina/marca metagallery.gltf"
+          "asset": "assets/Oficina/petrobras_marca.glb"
         },
         "animationClip": "",
         "loop": true
       },
-      "name": "marca metagallery.gltf",
-      "order": 12.366285554337109
+      "name": "petrobras_marca.glb (6)",
+      "order": 10.77117362833823,
+      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
     }
   },
   "spaces": {
