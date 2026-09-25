@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 57,
+    "left": 0,
+    "width": 1414,
+    "height": 1885,
+    "isRotated": false,
+    "originalWidth": 1414,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/target-qrcode_luminance.png",
+  "metadata": null,
+  "name": "target-qrcode",
+  "resources": {
+    "originalImage": "target-qrcode_original.png",
+    "croppedImage": "target-qrcode_cropped.png",
+    "thumbnailImage": "target-qrcode_thumbnail.png",
+    "luminanceImage": "target-qrcode_luminance.png"
+  },
+  "created": 1790356072410,
+  "updated": 1790356072410
+}

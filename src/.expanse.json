@@ -1,33 +1,5 @@
 {
   "objects": {
-    "30419396-0fa0-4e54-8752-b9d3a2515463": {
-      "id": "30419396-0fa0-4e54-8752-b9d3a2515463",
-      "name": "target_petrobras",
-      "components": {},
-      "position": [
-        0,
-        0,
-        0
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "geometry": null,
-      "material": null,
-      "imageTarget": {
-        "name": "target_petrobras"
-      },
-      "order": 4.622026315567672,
-      "parentId": "82dc9290-dd7d-439e-be09-8026accf61a3"
-    },
     "a27b32a0-308d-4b5c-b666-f7353225e6d6": {
       "id": "a27b32a0-308d-4b5c-b666-f7353225e6d6",
       "position": [
@@ -2584,7 +2556,7 @@
     },
     "b847f3f9-2be6-4ed5-951e-a73dbfe5b0e6": {
       "id": "b847f3f9-2be6-4ed5-951e-a73dbfe5b0e6",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2",
       "position": [
         0,
         0.005127799798556043,
@@ -2626,7 +2598,7 @@
     },
     "0863f31b-0948-4124-b23e-5d866e37b43c": {
       "id": "0863f31b-0948-4124-b23e-5d866e37b43c",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2",
       "position": [
         -0.011766459862236789,
         -0.00685912834151059,
@@ -2665,7 +2637,7 @@
     },
     "f2b279b8-ec45-4b9d-a961-94bfc4bc3147": {
       "id": "f2b279b8-ec45-4b9d-a961-94bfc4bc3147",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2",
       "position": [
         0.17604279463778183,
         -0.17074894903091276,
@@ -2714,7 +2686,7 @@
     },
     "37e8ed3d-ce5a-4098-be76-9205a42de142": {
       "id": "37e8ed3d-ce5a-4098-be76-9205a42de142",
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463",
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2",
       "position": [
         0.17649413796527358,
         0.16037264882913582,
@@ -2806,7 +2778,7 @@
       },
       "name": "Moldura Imagem (11)",
       "order": 4.406458983749234,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "808d0220-f61e-4c60-a937-2f01ae5546fe": {
       "id": "808d0220-f61e-4c60-a937-2f01ae5546fe",
@@ -2854,7 +2826,7 @@
       },
       "name": "Moldura Imagem (11)",
       "order": 4.410916658504579,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "640349be-8da9-4330-bf03-8f11fd41dcb8": {
       "id": "640349be-8da9-4330-bf03-8f11fd41dcb8",
@@ -2892,7 +2864,7 @@
       },
       "name": "Meio Ambiente (1)",
       "order": 1.9931912475987827,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "e13b78e8-d4c3-49f9-9e5f-9896fec90b33": {
       "id": "e13b78e8-d4c3-49f9-9e5f-9896fec90b33",
@@ -2940,7 +2912,7 @@
       },
       "name": "Moldura Imagem (12)",
       "order": 4.3879728491665535,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "ea29222f-9ffd-4f29-8035-5c95feb7ff3f": {
       "id": "ea29222f-9ffd-4f29-8035-5c95feb7ff3f",
@@ -2988,7 +2960,7 @@
       },
       "name": "Moldura Imagem (12)",
       "order": 4.389144369246152,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "0708f4da-0d5c-444d-9a1f-11acf2e8f8b6": {
       "id": "0708f4da-0d5c-444d-9a1f-11acf2e8f8b6",
@@ -3026,7 +2998,7 @@
       },
       "name": "Meio Ambiente (2)",
       "order": 2.1084267665024057,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "03434dcf-2602-459b-83d8-33b2f64bbb2a": {
       "id": "03434dcf-2602-459b-83d8-33b2f64bbb2a",
@@ -3074,7 +3046,7 @@
       },
       "name": "Moldura Imagem (13)",
       "order": 4.38949080922198,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "b14a5d04-5c62-4fcb-870f-f37fc2a88ebf": {
       "id": "b14a5d04-5c62-4fcb-870f-f37fc2a88ebf",
@@ -3123,7 +3095,7 @@
       },
       "name": "Moldura Imagem (13)",
       "order": 4.389544369177909,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "3d215ce8-7392-4a22-824d-cae4262f58bd": {
       "id": "3d215ce8-7392-4a22-824d-cae4262f58bd",
@@ -3171,7 +3143,7 @@
       },
       "name": "Moldura Imagem (13)",
       "order": 4.389597929133838,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "01070a58-421c-4952-98b8-9b17d7dae8bc": {
       "id": "01070a58-421c-4952-98b8-9b17d7dae8bc",
@@ -3219,7 +3191,7 @@
       },
       "name": "Moldura Imagem (13)",
       "order": 4.389651489089766,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "1d0b4433-22b6-4a74-9ef4-e6cd249962ec": {
       "id": "1d0b4433-22b6-4a74-9ef4-e6cd249962ec",
@@ -3267,7 +3239,7 @@
       },
       "name": "Moldura Imagem (14)",
       "order": 4.388454703754407,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "c410f4e8-939f-4a86-a1ab-039b17c11eaf": {
       "id": "c410f4e8-939f-4a86-a1ab-039b17c11eaf",
@@ -3315,7 +3287,7 @@
       },
       "name": "Moldura Imagem (14)",
       "order": 4.388643678322362,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "6cda9287-4ac6-432f-b1cb-a0a181b2ea5f": {
       "id": "6cda9287-4ac6-432f-b1cb-a0a181b2ea5f",
@@ -3390,7 +3362,7 @@
       },
       "name": "petrobras_marca.glb (5)",
       "order": 10.56965248810884,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
     },
     "ffd6ac0d-fbc2-47fd-8deb-e23a2f993ad0": {
       "id": "ffd6ac0d-fbc2-47fd-8deb-e23a2f993ad0",
@@ -3465,7 +3437,35 @@
       },
       "name": "petrobras_marca.glb (6)",
       "order": 10.77117362833823,
-      "parentId": "30419396-0fa0-4e54-8752-b9d3a2515463"
+      "parentId": "c3dc20a8-f186-43f8-ac30-b7ade9344df2"
+    },
+    "c3dc20a8-f186-43f8-ac30-b7ade9344df2": {
+      "id": "c3dc20a8-f186-43f8-ac30-b7ade9344df2",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "82dc9290-dd7d-439e-be09-8026accf61a3",
+      "components": {},
+      "name": "target-qrcode",
+      "imageTarget": {
+        "name": "target-qrcode"
+      },
+      "order": 6.493553443518612
     }
   },
   "spaces": {
