@@ -10,7 +10,6 @@ const onxrloaded = () => {
       require('../image-targets/waves.json'),
       require('../image-targets/target_petrobras.json'),
       require('../image-targets/target-qrcode.json'),
-       require('../image-targets/exemplo.json'),
     ],
   })
   XR8.addCameraPipelineModule(LandingPage.pipelineModule())
